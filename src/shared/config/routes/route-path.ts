@@ -1,5 +1,5 @@
 export enum enumPath {
-  HOME = "/home",
+  HOME = "/",
   ABOUT = "/about",
   DELIVARY = "/delivery",
   STORES = "/stores",

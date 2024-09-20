@@ -1,18 +1,18 @@
 <script setup lang="ts">
-// import { ref } from 'vue'
-
-// interface Props {
-
-// }
+import "./styles/normolize.scss";
+import "./styles/main.scss";
+import { layoutApp } from "widgets/layouts/layout-app";
 </script>
 
 <template>
-  <div class="block">
-    <h2 class="title">Titile</h2>
+  <div class="root">
+    <layoutApp>
+      <RouterView />
+    </layoutApp>
   </div>
 </template>
 
 <style scoped lang="scss">
-// .block {
+// .root {
 // }
 </style>
