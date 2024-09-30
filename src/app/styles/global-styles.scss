@@ -1,0 +1,19 @@
+* {
+  outline: none;
+  font-family: Roboto, sans-serif;
+}
+
+body {
+  background-color: #e5e5e5;
+}
+
+.container {
+  max-width: 1747px;
+  padding: 0 13px;
+  width: 100%;
+  margin: 0 auto;
+
+  @media (min-width: 426px) {
+    padding: 0 27px;
+  }
+}
