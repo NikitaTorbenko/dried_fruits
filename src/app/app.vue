@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import "./styles/normolize.scss";
-import "./styles/global-styles.scss";
+import "./styles/index.scss";
 import { layoutApp } from "widgets/layouts/layout-app";
 </script>
 

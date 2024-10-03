@@ -32,7 +32,7 @@ const setActiveLink = (index: number) => (activeLink.value = index);
             <div class="phone-icon">
               <img :src="PhoneSvg" alt="" />
             </div>
-            <div class="phone-number">+7 (900) 232 32-32</div>
+            <div class="phone-number text-4xl">+7 (900) 232 32-32</div>
           </div>
           <div class="like">Избранное</div>
           <div class="cart">
