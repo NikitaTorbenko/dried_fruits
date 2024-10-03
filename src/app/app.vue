@@ -11,8 +11,3 @@ import { layoutApp } from "widgets/layouts/layout-app";
     </layoutApp>
   </div>
 </template>
-
-<style scoped lang="scss">
-// .root {
-// }
-</style>

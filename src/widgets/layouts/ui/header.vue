@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import logo from "shared/assets/icons/logo.svg";
-import { nav_links } from "../../model/nav-links";
+import { nav_links } from "../model/nav-links";
 import { enumPath } from "shared/config/routes";
 import PhoneSvg from "shared/assets/icons/phone.svg";
 
