@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { Header } from "widgets/layouts/ui";
-import { Footer } from "widgets/layouts/ui";
+import { Header } from "widgets/layouts/Header";
+import { Footer } from "widgets/layouts/Footer";
 </script>
 
 <template>
