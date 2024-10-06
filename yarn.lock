@@ -1594,6 +1594,11 @@ vue-demi@^0.14.10:
   resolved "https://registry.npmjs.org/vue-demi/-/vue-demi-0.14.10.tgz"
   integrity sha512-nMZBOwuzabUO0nLgIcc6rycZEebF6eeUfaiQx9+WSk8e29IbLvPU9feI6tqW4kTo3hvoYAJkMh8n8D0fuISphg==
 
+vue-inline-svg@^3.1.4:
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/vue-inline-svg/-/vue-inline-svg-3.1.4.tgz#fcf2bdc7a0f02d272c3a0c307adc0a5839e547d0"
+  integrity sha512-2WrOViZroRvB0UqwkwxDlCz516pkmT9ojsWri9Vxp8wBcQ1/wzfF0ubw5J/ZxNgjkBBAp0qkTiXDdzBPonT21A==
+
 vue-router@^4.4.5:
   version "4.4.5"
   resolved "https://registry.npmjs.org/vue-router/-/vue-router-4.4.5.tgz"
