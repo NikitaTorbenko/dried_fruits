@@ -28,6 +28,32 @@ export const firstPart = {
   ],
 };
 
+export const thirdPart = {
+  title: "Раздел 3",
+  body: [
+    {
+      text: "Сухофрукты",
+      link: "",
+    },
+    {
+      text: "Орехи",
+      link: "",
+    },
+    {
+      text: "Ягоды сушеные",
+      link: "",
+    },
+    {
+      text: "Цукаты",
+      link: "",
+    },
+    {
+      text: "Экзотические сухофрукты",
+      link: "",
+    },
+  ],
+};
+
 export const secondPart = {
   title: "Раздел 2",
   body: [
