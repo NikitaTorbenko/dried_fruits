@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import Header from "./components/Header.vue";
 // import { ref } from 'vue'
 
 // interface Props {
@@ -7,8 +8,12 @@
 </script>
 
 <template>
-  <div class="block">
-    <h2 class="title">Home</h2>
+  <div class="home">
+    <div class="container">
+      <div class="home-inner">
+        <Header />
+      </div>
+    </div>
   </div>
 </template>
 

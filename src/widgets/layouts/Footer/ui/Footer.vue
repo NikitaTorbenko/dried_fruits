@@ -6,9 +6,6 @@ import {
   contscts,
   thirdPart,
 } from "../model/partsOfFooter";
-// interface Props {
-
-// }
 </script>
 
 <template>

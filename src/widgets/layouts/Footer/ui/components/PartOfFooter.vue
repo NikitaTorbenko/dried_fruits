@@ -68,6 +68,7 @@ const routerHandler = (link: string | undefined) => {
   gap: 10px;
 
   &-img {
+    width: auto;
   }
 
   &-text {
